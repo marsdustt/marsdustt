@@ -4,9 +4,9 @@
 **marsdustt/marsdustt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m a budding data scientist who has just completed Le Wagon Amsterdam's Data Science Bootcamp in September 2022
-- 🌳 I'm passionate about urban sustainability issues, where I've helped shape related policies, strategies and projects in Singapore
-- 👯 I’m interested in collaborating on data projects that improve sustainability and resilience outcomes in the built environment and urban ecology domains
+- 🔭 I’m a budding data scientist who has recently completed Le Wagon Amsterdam's Data Science Bootcamp
+- 🌳 I'm passionate about sustainability issues, where I've helped shape related policies, strategies and projects in Singapore
+- 👯 I’m interested in collaborating on data projects that improve sustainability outcomes for businesses and organisations
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/isis-lim/
 
 <h3 align="left">Languages and Tools:</h3>
